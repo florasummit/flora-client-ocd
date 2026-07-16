@@ -1,0 +1,17 @@
+.DS_Store
+Thumbs.db
+.env
+*.key
+*.pem
+.vscode/
+.idea/
+
+# Generated outputs are reproducible
+09-generated/*.docx
+09-generated/*.pdf
+09-generated/*.html
+09-generated/*.md
+09-generated/SHA256SUMS.txt
+
+# Preserve README
+!09-generated/README.md

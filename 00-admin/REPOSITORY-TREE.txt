@@ -1,0 +1,63 @@
+├── .github/
+  ├── workflows/
+    ├── validate-and-build.yml
+├── .gitignore
+├── 00-admin/
+  ├── DOCUMENT-CONTROL.md
+  ├── DOCUMENT-INDEX.md
+├── 01-intake/
+  ├── 01-client-intake-checklist.md
+  ├── 02-founder-and-rights-questionnaire.md
+├── 02-ownership/
+  ├── 01-founder-brand-ownership-declaration.md
+  ├── 02-brand-foundation-agreement.md
+  ├── 03-brand-owner-written-consent.md
+  ├── 04-chain-of-title-certificate.md
+├── 03-brand-assets/
+  ├── EXHIBIT-A-brand-assets.md
+  ├── EXHIBIT-B-logo-icon-specimens.md
+  ├── EXHIBIT-C-domain-social-assets.md
+  ├── EXHIBIT-D-prior-rights-disclosures.md
+  ├── icons/
+    ├── README.md
+  ├── logos/
+    ├── README.md
+  ├── packaging/
+    ├── README.md
+├── 04-licensing/
+  ├── 01-quality-control-and-brand-use-schedule.md
+  ├── 02-future-authorized-operator-joinder.md
+  ├── 03-operator-and-license-schedule.md
+├── 05-flora-summit/
+  ├── 01-exclusive-sweepstakes-partnership-agreement.md
+  ├── 02-controlled-entity-and-operator-joinder.md
+  ├── 03-transfer-and-successor-assumption.md
+  ├── 04-change-of-control-notice.md
+  ├── 05-flora-summit-integration-checklist.md
+├── 06-closing/
+  ├── 01-signature-packet-cover.md
+  ├── 02-closing-checklist.md
+  ├── 03-closing-certificate.md
+├── 07-trademark/
+  ├── 01-trademark-readiness-checklist.md
+  ├── 02-trademark-record-schedule.md
+├── 08-records/
+  ├── README.md
+  ├── entity/
+    ├── README.md
+  ├── hashes/
+    ├── README.md
+  ├── licenses/
+    ├── README.md
+  ├── signatures/
+    ├── README.md
+├── 09-generated/
+  ├── README.md
+├── 10-signed/
+  ├── README.md
+├── README.md
+├── UPLOAD-TO-GITHUB.md
+├── client.yml
+├── scripts/
+  ├── build.py
+  ├── validate.py

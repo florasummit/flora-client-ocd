@@ -1,0 +1,79 @@
+schema_version: "1.0"
+package_version: "1.0.0"
+
+repository:
+  name: "flora-client-ocd"
+  confidentiality: "private-confidential"
+  status: "draft-attorney-review-required"
+
+founder:
+  legal_name: "Duy Thai"
+  address: "REQUIRED"
+  email: "REQUIRED"
+  signs_personally:
+    founder_disclosures: true
+    chain_of_title_accuracy: true
+    limited_ocd_anti_circumvention_covenant: true
+    all_company_debts: false
+
+brand:
+  short_name: "OCD"
+  full_name: "Obsessive Cannabis Disorder"
+  proposed_owner_legal_name: "Obsessive Cannabis Disorder LLC"
+  owner_formation_status: "REQUIRED"
+  owner_state: "Oklahoma"
+  owner_entity_number: "REQUIRED"
+  owner_address: "REQUIRED"
+  owner_manager: "Duy Thai"
+
+authorized_operator:
+  legal_name: "REQUIRED_EXACT_PROCESSOR_OR_DISTRIBUTOR_LLC_NAME"
+  state: "Oklahoma"
+  entity_number: "REQUIRED"
+  address: "REQUIRED"
+  manager: "Duy Thai"
+  ownership_percentage_by_duy_thai: "REQUIRED"
+  omma_license_type: "REQUIRED"
+  omma_license_number: "REQUIRED"
+  omma_license_expiration: "REQUIRED"
+  omma_status_verified_date: "REQUIRED"
+
+flora_summit:
+  legal_name: "Flora Summit LLC"
+  state: "Oklahoma"
+  entity_number: "REQUIRED"
+  address: "REQUIRED"
+  notice_email: "REQUIRED"
+  role: "Exclusive OCD Sweepstakes Partner"
+
+relationship:
+  scope_brand_specific_only: true
+  exclusive_activities:
+    - sweepstakes
+    - promotional drawings
+    - prize promotions
+    - chance-based promotional programs
+    - substantially similar OCD-branded promotions
+  intended_duration: "perpetual-subject-to-final-counsel-approved-termination-rights"
+  survives_campaign_and_service_termination: true
+  change_of_operator_does_not_terminate: true
+  controlled_entity_coverage: true
+  nominee_and_side_arrangement_coverage: true
+  transfer_notice_required: true
+  successor_assumption_required_where_legally_available: true
+  genuinely_independent_brands_excluded: true
+  personal_covenant_limited_to_ocd: true
+
+execution:
+  effective_date: "REQUIRED"
+  governing_law: "Oklahoma"
+  venue_county: "REQUIRED"
+  electronic_signatures_allowed: true
+  counterparts_allowed: true
+  attorney_review_completed: false
+
+build:
+  package_title: "OCD Brand Foundation and Flora Summit Partnership Package"
+  output_basename: "OCD-Brand-Foundation-and-Flora-Summit-Partnership-Package"
+  draft_watermark: true
+  require_no_placeholders_for_final: true

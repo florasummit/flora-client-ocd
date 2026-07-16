@@ -1,0 +1,71 @@
+name: Validate and Build OCD Package
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - "client.yml"
+      - "00-admin/**"
+      - "01-intake/**"
+      - "02-ownership/**"
+      - "03-brand-assets/**"
+      - "04-licensing/**"
+      - "05-flora-summit/**"
+      - "06-closing/**"
+      - "07-trademark/**"
+      - "scripts/**"
+      - ".github/workflows/validate-and-build.yml"
+
+permissions:
+  contents: read
+
+jobs:
+  draft-build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install document tools
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y pandoc texlive-xetex texlive-fonts-recommended
+
+      - name: Build draft package
+        run: python scripts/build.py
+
+      - name: Report unresolved fields
+        continue-on-error: true
+        run: python scripts/validate.py
+
+      - name: Upload draft package
+        uses: actions/upload-artifact@v4
+        with:
+          name: OCD-draft-signing-package
+          path: |
+            09-generated/OCD-Brand-Foundation-and-Flora-Summit-Partnership-Package.md
+            09-generated/OCD-Brand-Foundation-and-Flora-Summit-Partnership-Package.docx
+            09-generated/OCD-Brand-Foundation-and-Flora-Summit-Partnership-Package.pdf
+            09-generated/SHA256SUMS.txt
+
+  final-validation:
+    if: github.event_name == 'workflow_dispatch'
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Require completed fields
+        run: python scripts/validate.py
