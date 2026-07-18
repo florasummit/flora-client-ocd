@@ -16,6 +16,8 @@ For each logo or icon, maintain:
 - Approved uses
 - Known restrictions or third-party elements
 
+The automatically generated technical identifiers for the assets listed in this Exhibit are maintained in the **Brand Asset Manifest**, which is incorporated into this Exhibit by reference.
+
 ---
 
 ## Primary OCD Logo
@@ -23,14 +25,12 @@ For each logo or icon, maintain:
 ![Primary OCD Logo](03-brand-assets/logos/ocd-primary-logo.png){ width=3.5in }
 
 **File:** `03-brand-assets/logos/ocd-primary-logo.png`  
-**Format:** PNG  
-**SHA-256 Hash:** REQUIRED  
-**Dimensions:** REQUIRED  
-**Creator / Designer:** REQUIRED  
-**Creation Date:** REQUIRED  
-**First Commercial Use:** REQUIRED  
+**Technical Identifiers:** See the Brand Asset Manifest for the current SHA-256 hash, format, dimensions, and file size.  
+**Creator / Designer:** As documented in the Founder Brand Ownership Declaration and supporting brand records.  
+**Creation Date:** As documented in the Founder Brand Ownership Declaration and supporting brand records.  
+**First Commercial Use:** As documented in the applicable trademark and brand-use records, if any.  
 **Current Owner:** Obsessive Cannabis Disorder LLC (upon execution of the Founder Assignment Agreement)  
-**Rights Evidence:** Founder Brand Ownership Declaration and OCD Brand Foundation Agreement  
+**Rights Evidence:** Founder Brand Ownership Declaration, OCD Brand Foundation Agreement, and Founder Assignment Agreement (upon execution)  
 
 ---
 
@@ -38,7 +38,7 @@ For each logo or icon, maintain:
 
 No standalone OCD icon exists as of the Effective Date of this Agreement.
 
-If a standalone icon is later created, commissioned, acquired, or adopted, it shall be added to this Exhibit together with its ownership documentation.
+If a standalone icon is later created, commissioned, acquired, or adopted, it shall be added to this Exhibit and the Brand Asset Manifest together with its ownership documentation.
 
 ---
 
