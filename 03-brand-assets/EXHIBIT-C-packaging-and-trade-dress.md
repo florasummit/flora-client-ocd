@@ -2,7 +2,7 @@
 
 ## Current Packaging Specimens
 
-![1oz Front & Back](03-brand-assets/ocd-packaging-specimen.jpg) { width=3in }
+![1oz Front & Back](03-brand-assets/packaging/ocd-packaging-specimen.jpg) { width=3in }
 
 **Status:** Representative current packaging specimens.
 
