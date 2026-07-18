@@ -41,3 +41,4 @@
 | OCD-CLOSE-001 | Signature Packet Cover | No |
 | OCD-CLOSE-002 | Closing Checklist | Closing coordinator |
 | OCD-CLOSE-003 | Closing Certificate | Principal parties |
+| OCD-FS-005 | Flora Summit Integration Checklist | Internal checklist |

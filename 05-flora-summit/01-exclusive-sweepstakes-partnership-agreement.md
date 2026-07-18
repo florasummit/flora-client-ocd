@@ -35,6 +35,16 @@ Authorized Operator acknowledges and agrees to honor the appointment.
 
 No Party shall knowingly authorize another provider to perform OCD Sweepstakes Activities without Flora Summit's prior written consent.
 
+
+
+## 3.1 Shared Program Carveout
+
+Flora Summit may operate Shared Promotional Programs involving other brands, retailers, sponsors, authorized operators, and participants.
+
+OCD's exclusive appointment applies to OCD Sweepstakes Activities and does not grant Brand Owner, Authorized Operator, or Founder exclusivity over the Flora Summit Platform or over unrelated brands or retailers.
+
+OCD may participate in a shared Flora Summit campaign without waiving or reducing Flora Summit's exclusive appointment for OCD Sweepstakes Activities. No other participant acquires ownership or license rights in the OCD Brand except as expressly authorized in writing.
+
 ## 4. Intended Duration
 
 The Parties intend the appointment to be perpetual and brand-specific, surviving expiration or termination of campaign-level documents, Order Forms, Statements of Work, and ordinary service relationships.
