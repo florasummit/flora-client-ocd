@@ -1,45 +1,51 @@
 # Exhibit B — Logo and Icon Specimen Schedule
 
-## Specimen Requirements
+This Exhibit identifies the OCD logos and icons owned or controlled by the Brand Owner as of the Effective Date.
 
-For each logo or icon, maintain:
+The technical specifications for each asset, including the exact file name, SHA-256 hash, file format, dimensions, version information, and other identifying metadata, are maintained in the **Brand Asset Manifest** located at:
 
-- Exact file name
-- SHA-256 hash
-- File format
-- Dimensions
-- Creator / Designer
-- Creation date
-- First commercial use
-- Current owner
-- Assignment or license record
-- Approved uses
-- Known restrictions or third-party elements
+`08-records/manifests/brand-assets-manifest.md`
+
+The Brand Asset Manifest is automatically generated during the repository build process and is incorporated into this Exhibit by reference.
 
 ---
 
 ## Primary OCD Logo
 
-![Primary OCD Logo](03-brand-assets/logos/ocd-primary-logo.png){ width=3.5in }
+![Primary OCD Logo](logos/ocd-primary-logo.png){ width=3.5in }
 
-**File:** `03-brand-assets/logos/ocd-primary-logo.png`  
-**Format:** PNG  
-**SHA-256 Hash:** REQUIRED  
-**Dimensions:** REQUIRED  
-**Creator / Designer:** REQUIRED  
-**Creation Date:** REQUIRED  
-**First Commercial Use:** REQUIRED  
-**Current Owner:** Obsessive Cannabis Disorder LLC (upon execution of the Founder Assignment Agreement)  
-**Rights Evidence:** Founder Brand Ownership Declaration and OCD Brand Foundation Agreement  
+**Asset Name:** Primary OCD Logo
+
+**Current Owner:** Obsessive Cannabis Disorder LLC (upon execution of the Founder Assignment Agreement)
+
+**Rights Evidence:**
+
+- Founder Brand Ownership Declaration
+- OCD Brand Foundation Agreement
+- Founder Assignment Agreement (upon execution)
+
+**Approved Uses:**
+
+- Product packaging
+- Marketing materials
+- Sweepstakes materials
+- Advertising
+- Digital media
+- Merchandise
+- Website and social media
+
+**Restrictions:**
+
+Do not modify, sublicense, or use the logo except as authorized by the applicable agreements.
 
 ---
 
 ## Standalone OCD Icon
 
-No standalone OCD icon exists as of the Effective Date of this Agreement.
+No standalone OCD icon exists as of the Effective Date.
 
-If a standalone icon is later created, commissioned, acquired, or adopted, it shall be added to this Exhibit together with its ownership documentation.
+If one is later created, adopted, commissioned, or acquired, it shall be added to the Brand Asset Manifest and may be referenced by this Exhibit without changing the ownership provisions of this Agreement.
 
 ---
 
-Do not claim ownership of any third-party fonts, stock artwork, photographs, illustrations, or other materials unless the applicable ownership or license rights have been independently verified.
+Nothing in this Exhibit claims ownership of any third-party fonts, stock artwork, photographs, illustrations, or other third-party materials except to the extent ownership or licensing has been independently established.
