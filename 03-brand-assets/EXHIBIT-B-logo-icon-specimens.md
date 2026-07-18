@@ -8,13 +8,12 @@ The technical specifications for each asset, including the exact file name, SHA-
 
 The Brand Asset Manifest is automatically generated during the repository build process and is incorporated into this Exhibit by reference.
 
-The automatically generated technical identifiers for the assets listed in this Exhibit are maintained in the **Brand Asset Manifest**, which is incorporated into this Exhibit by reference.
 
 ---
 
 ## Primary OCD Logo
 
-![Primary OCD Logo](logos/ocd-primary-logo.png){ width=3.5in }
+![Primary OCD Logo](03-brand-assets/logos/ocd-primary-logo.png){ width=3.5in }
 
 **Asset Name:** Primary OCD Logo
 
