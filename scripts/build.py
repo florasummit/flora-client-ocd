@@ -2,7 +2,6 @@ from pathlib import Path
 import hashlib
 import shutil
 import subprocess
-import sys
 
 ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / "09-generated"
@@ -25,21 +24,71 @@ parts = [
 
 basename = "OCD-Brand-Foundation-and-Flora-Summit-Partnership-Package"
 md = OUT / f"{basename}.md"
-md.write_text("\n\n\\newpage\n\n".join(p.read_text(encoding="utf-8") for p in parts), encoding="utf-8")
+docx = OUT / f"{basename}.docx"
+pdf = OUT / f"{basename}.pdf"
+
+missing = [str(path.relative_to(ROOT)) for path in parts if not path.exists()]
+if missing:
+    raise FileNotFoundError(
+        "Missing package files:\n" + "\n".join(f"- {path}" for path in missing)
+    )
+
+# Join documents with normal spacing only.
+# This removes the visible "\newpage" text from both DOCX and PDF output.
+combined = "\n\n---\n\n".join(
+    path.read_text(encoding="utf-8").strip()
+    for path in parts
+)
+
+md.write_text(combined + "\n", encoding="utf-8")
 
 pandoc = shutil.which("pandoc")
+
 if pandoc:
-    subprocess.run([pandoc, str(md), "--from=gfm", "--to=docx", "-o", str(OUT/f"{basename}.docx")], check=True)
+    subprocess.run(
+        [
+            pandoc,
+            str(md),
+            "--from=gfm",
+            "--to=docx",
+            "--standalone",
+            "-o",
+            str(docx),
+        ],
+        check=True,
+    )
+
     try:
-        subprocess.run([pandoc, str(md), "--from=gfm", "--pdf-engine=xelatex", "-o", str(OUT/f"{basename}.pdf")], check=True)
-    except Exception as exc:
-        print(f"PDF build skipped or failed: {exc}")
+        subprocess.run(
+            [
+                pandoc,
+                str(md),
+                "--from=gfm",
+                "--standalone",
+                "--pdf-engine=xelatex",
+                "-V",
+                "geometry:margin=0.7in",
+                "-V",
+                "fontsize=10pt",
+                "-o",
+                str(pdf),
+            ],
+            check=True,
+        )
+    except subprocess.CalledProcessError as exc:
+        print(f"PDF build failed: {exc}")
 else:
     print("Pandoc not installed; Markdown package created.")
 
 manifest = []
-for p in sorted(OUT.glob(f"{basename}.*")):
-    digest = hashlib.sha256(p.read_bytes()).hexdigest()
-    manifest.append(f"{digest}  {p.name}")
-(OUT/"SHA256SUMS.txt").write_text("\n".join(manifest)+"\n", encoding="utf-8")
+
+for path in sorted(OUT.glob(f"{basename}.*")):
+    digest = hashlib.sha256(path.read_bytes()).hexdigest()
+    manifest.append(f"{digest}  {path.name}")
+
+(OUT / "SHA256SUMS.txt").write_text(
+    "\n".join(manifest) + "\n",
+    encoding="utf-8",
+)
+
 print(f"Built package in {OUT}")
