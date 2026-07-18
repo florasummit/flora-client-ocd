@@ -23,48 +23,65 @@ parts = [
 ]
 
 basename = "OCD-Brand-Foundation-and-Flora-Summit-Partnership-Package"
+
 md = OUT / f"{basename}.md"
 docx = OUT / f"{basename}.docx"
 pdf = OUT / f"{basename}.pdf"
+manifest_file = OUT / "SHA256SUMS.txt"
 
-missing = [str(path.relative_to(ROOT)) for path in parts if not path.exists()]
+missing = [
+    str(path.relative_to(ROOT))
+    for path in parts
+    if not path.exists()
+]
+
 if missing:
     raise FileNotFoundError(
-        "Missing package files:\n" + "\n".join(f"- {path}" for path in missing)
+        "Missing package files:\n"
+        + "\n".join(f"- {path}" for path in missing)
     )
 
-# Join documents with normal spacing only.
-# This removes the visible "\newpage" text from both DOCX and PDF output.
+# Join each source document with a horizontal rule.
+# This avoids literal \newpage text appearing in generated files.
 combined = "\n\n---\n\n".join(
     path.read_text(encoding="utf-8").strip()
     for path in parts
 )
 
-md.write_text(combined + "\n", encoding="utf-8")
+md.write_text(
+    combined + "\n",
+    encoding="utf-8",
+)
 
 pandoc = shutil.which("pandoc")
 
 if pandoc:
+    common_args = [
+        pandoc,
+        str(md),
+        "--from=markdown",
+        "--standalone",
+        "--resource-path",
+        str(ROOT),
+    ]
+
+    # Generate DOCX
     subprocess.run(
-        [
-            pandoc,
-            str(md),
-            "--from=gfm",
+        common_args
+        + [
             "--to=docx",
-            "--standalone",
             "-o",
             str(docx),
         ],
+        cwd=ROOT,
         check=True,
     )
 
+    # Generate PDF
     try:
         subprocess.run(
-            [
-                pandoc,
-                str(md),
-                "--from=gfm",
-                "--standalone",
+            common_args
+            + [
                 "--pdf-engine=xelatex",
                 "-V",
                 "geometry:margin=0.7in",
@@ -73,21 +90,26 @@ if pandoc:
                 "-o",
                 str(pdf),
             ],
+            cwd=ROOT,
             check=True,
         )
     except subprocess.CalledProcessError as exc:
         print(f"PDF build failed: {exc}")
 else:
-    print("Pandoc not installed; Markdown package created.")
+    print("Pandoc not installed; Markdown package created only.")
 
-manifest = []
+# Build SHA-256 manifest for generated package files.
+manifest_entries = []
 
-for path in sorted(OUT.glob(f"{basename}.*")):
+for path in [md, docx, pdf]:
+    if not path.exists():
+        continue
+
     digest = hashlib.sha256(path.read_bytes()).hexdigest()
-    manifest.append(f"{digest}  {path.name}")
+    manifest_entries.append(f"{digest}  {path.name}")
 
-(OUT / "SHA256SUMS.txt").write_text(
-    "\n".join(manifest) + "\n",
+manifest_file.write_text(
+    "\n".join(manifest_entries) + "\n",
     encoding="utf-8",
 )
 
