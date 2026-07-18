@@ -6,8 +6,8 @@ repository:
   status: draft-attorney-review-required
 founder:
   legal_name: Duy Thai
-  address: REQUIRED
-  email: REQUIRED
+  address: TO_BE_COMPLETED
+  email: TO_BE_COMPLETED
   signs_personally:
     founder_disclosures: true
     chain_of_title_accuracy: true
@@ -20,7 +20,7 @@ brand:
   owner_formation_status: REQUIRED
   owner_state: Oklahoma
   owner_entity_number: REQUIRED
-  owner_address: REQUIRED
+  owner_address: TO_BE_COMPLETED
   owner_manager: Duy Thai
 authorized_operator:
   legal_name: Duy Thai
@@ -38,8 +38,8 @@ flora_summit:
   legal_name: Flora Summit LLC
   state: Oklahoma
   entity_number: REQUIRED
-  address: REQUIRED
-  notice_email: REQUIRED
+  address: TO_BE_COMPLETED
+  notice_email: TO_BE_COMPLETED
   role: Exclusive OCD Sweepstakes Partner
 relationship:
   scope_brand_specific_only: true
