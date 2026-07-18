@@ -8,7 +8,7 @@ This Agreement is entered into as of **[EFFECTIVE DATE]** among:
 
 - **Duy Thai**, individually, solely for obligations expressly imposed on the Founder;
 - **Obsessive Cannabis Disorder LLC**, an Oklahoma limited liability company (“Brand Owner”); and
-- **[AUTHORIZED OPERATOR LEGAL NAME]**, an Oklahoma limited liability company (“Authorized Operator”).
+- **Duy Thai**, an Oklahoma limited liability company (“Authorized Operator”).
 
 ## 1. Commercial Purpose
 
@@ -149,7 +149,7 @@ Date: __________________________________
 
 ### Authorized Operator
 
-[AUTHORIZED OPERATOR LEGAL NAME]
+Duy Thai
 
 By: ___________________________________  
 Name: Duy Thai  

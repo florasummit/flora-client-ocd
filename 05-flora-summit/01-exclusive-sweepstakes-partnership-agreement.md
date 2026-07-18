@@ -7,7 +7,7 @@
 This Agreement is entered into as of **[EFFECTIVE DATE]** by and among:
 
 - **Obsessive Cannabis Disorder LLC** (“Brand Owner”);
-- **[AUTHORIZED OPERATOR LEGAL NAME]** (“Authorized Operator”);
+- **Duy Thai** (“Authorized Operator”);
 - **Duy Thai**, individually, solely for the limited Founder covenant expressly stated herein; and
 - **Flora Summit LLC** (“Flora Summit”).
 
@@ -167,7 +167,7 @@ Date: __________________________________
 
 ### Authorized Operator
 
-[AUTHORIZED OPERATOR LEGAL NAME]
+Duy Thai
 
 By: ___________________________________  
 Name: Duy Thai  

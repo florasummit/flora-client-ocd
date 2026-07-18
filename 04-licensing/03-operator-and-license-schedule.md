@@ -2,7 +2,7 @@
 
 ## Entity
 
-- Exact legal name: `REQUIRED_EXACT_PROCESSOR_OR_DISTRIBUTOR_LLC_NAME`
+- Exact legal name: `Duy Thai`
 - State: Oklahoma
 - Entity number: `REQUIRED`
 - Address: `REQUIRED`
