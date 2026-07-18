@@ -40,6 +40,8 @@ flora_summit:
   entity_number: REQUIRED
   address: TO_BE_COMPLETED
   notice_email: TO_BE_COMPLETED
+  authorized_signer_name: Brandon Lai
+  authorized_signer_title: TO_BE_CONFIRMED
   role: Exclusive OCD Sweepstakes Partner
 relationship:
   scope_brand_specific_only: true

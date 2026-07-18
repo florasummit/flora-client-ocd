@@ -83,6 +83,7 @@ parts = [
     ROOT / "04-licensing/01-quality-control-and-brand-use-schedule.md",
     ROOT / "04-licensing/03-operator-and-license-schedule.md",
     ROOT / "05-flora-summit/01-exclusive-sweepstakes-partnership-agreement.md",
+    ROOT / "06-closing/04-final-business-structure-decisions.md",
     ROOT / "06-closing/01-signature-packet-cover.md",
     ROOT / "06-closing/03-closing-certificate.md",
 ]
