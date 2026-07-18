@@ -6,7 +6,7 @@
 | OCD-A-002 | Word mark | Obsessive Cannabis Disorder | Duy Thai / confirm |
 | OCD-A-003 | Logo | Primary OCD logo | REQUIRED |
 | OCD-A-004 | Icon | Standalone icon | REQUIRED |
-| OCD-A-005 | Packaging | Primary package system | REQUIRED |
+| OCD-A-005 | Packaging | Current representative OCD packaging design; not final production artwork | REQUIRED |
 
 ## Asset Detail Requirements
 
