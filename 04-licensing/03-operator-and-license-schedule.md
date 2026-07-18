@@ -1,13 +1,13 @@
 # Exhibit E — Authorized Operator and License Schedule
 
-## Entity
+## Authorized Operator
 
-- Exact legal name: `REQUIRED_EXACT_PROCESSOR_OR_DISTRIBUTOR_LLC_NAME`
-- State: Oklahoma
-- Entity number: `REQUIRED`
+- Exact legal name: Duy Thai
+- Capacity: Individual
 - Address: `REQUIRED`
-- Manager: Duy Thai
-- Members and percentages: `REQUIRED`
+- Entity number: Not applicable
+- Manager: Not applicable
+- Members and percentages: Not applicable
 - Other persons of interest: `REQUIRED`
 
 ## OMMA

@@ -1,13 +1,13 @@
 # OCD Exclusive Sweepstakes Partnership Agreement
 
-**Document ID:** OCD-FS-001  
-**Version:** 1.0.0  
+**Document ID:** OCD-FS-001
+**Version:** 1.0.0
 **Status:** Draft — Attorney Review Required
 
 This Agreement is entered into as of **[EFFECTIVE DATE]** by and among:
 
 - **Obsessive Cannabis Disorder LLC** (“Brand Owner”);
-- **[AUTHORIZED OPERATOR LEGAL NAME]** (“Authorized Operator”);
+- **Duy Thai, individually** (“Authorized Operator”);
 - **Duy Thai**, individually, solely for the limited Founder covenant expressly stated herein; and
 - **Flora Summit LLC** (“Flora Summit”).
 
@@ -160,32 +160,30 @@ Final counsel-approved terms must address notices, amendments, waiver, integrati
 
 Obsessive Cannabis Disorder LLC
 
-By: ___________________________________  
-Name: Duy Thai  
-Title: __________________________________  
+By: ___________________________________
+Name: Duy Thai
+Title: __________________________________
 Date: __________________________________
 
 ### Authorized Operator
 
-[AUTHORIZED OPERATOR LEGAL NAME]
+Duy Thai, individually
 
-By: ___________________________________  
-Name: Duy Thai  
-Title: __________________________________  
+Signature: ______________________________
 Date: __________________________________
 
 ### Founder — Limited Personal Covenant Only
 
 Duy Thai
 
-Signature: ______________________________  
+Signature: ______________________________
 Date: __________________________________
 
 ### Flora Summit LLC
 
-By: ___________________________________  
-Name: __________________________________  
-Title: __________________________________  
+By: ___________________________________
+Name: __________________________________
+Title: __________________________________
 Date: __________________________________
 
 

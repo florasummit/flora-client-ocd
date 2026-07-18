@@ -23,12 +23,13 @@ brand:
   owner_address: REQUIRED
   owner_manager: Duy Thai
 authorized_operator:
-  legal_name: REQUIRED_EXACT_PROCESSOR_OR_DISTRIBUTOR_LLC_NAME
+  legal_name: Duy Thai
+  capacity: individual
   state: Oklahoma
-  entity_number: REQUIRED
+  entity_number: not-applicable
   address: REQUIRED
-  manager: Duy Thai
-  ownership_percentage_by_duy_thai: REQUIRED
+  manager: not-applicable
+  ownership_percentage_by_duy_thai: not-applicable
   omma_license_type: REQUIRED
   omma_license_number: REQUIRED
   omma_license_expiration: REQUIRED

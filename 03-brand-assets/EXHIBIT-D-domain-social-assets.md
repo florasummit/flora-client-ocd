@@ -1,4 +1,4 @@
-# Exhibit C — Domains and Social Assets
+# Exhibit D — Domains and Social Assets
 
 | Asset | Platform / Registrar | Handle / Domain | Legal Registrant | Admin Contact | MFA | Recovery Contact | Transfer Limits | Notes |
 |---|---|---|---|---|---|---|---|---|

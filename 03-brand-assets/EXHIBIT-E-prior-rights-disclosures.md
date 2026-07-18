@@ -1,4 +1,4 @@
-# Exhibit D — Prior Rights and Third-Party Disclosures
+# Exhibit E — Prior Rights and Third-Party Disclosures
 
 Disclose all known:
 

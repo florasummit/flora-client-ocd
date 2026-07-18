@@ -1,14 +1,14 @@
 # OCD Brand Foundation Agreement
 
-**Document ID:** OCD-OWN-002 / OCD-LIC-001  
-**Version:** 1.0.0  
+**Document ID:** OCD-OWN-002 / OCD-LIC-001
+**Version:** 1.0.0
 **Status:** Draft — Attorney Review Required
 
 This Agreement is entered into as of **[EFFECTIVE DATE]** among:
 
 - **Duy Thai**, individually, solely for obligations expressly imposed on the Founder;
 - **Obsessive Cannabis Disorder LLC**, an Oklahoma limited liability company (“Brand Owner”); and
-- **[AUTHORIZED OPERATOR LEGAL NAME]**, an Oklahoma limited liability company (“Authorized Operator”).
+- **Duy Thai, individually** (“Authorized Operator”).
 
 ## 1. Commercial Purpose
 
@@ -135,23 +135,21 @@ Final counsel-approved terms must address notices, amendments, assignment, waive
 
 Duy Thai
 
-Signature: ______________________________  
+Signature: ______________________________
 Date: __________________________________
 
 ### Brand Owner
 
 Obsessive Cannabis Disorder LLC
 
-By: ___________________________________  
-Name: Duy Thai  
-Title: __________________________________  
+By: ___________________________________
+Name: Duy Thai
+Title: __________________________________
 Date: __________________________________
 
 ### Authorized Operator
 
-[AUTHORIZED OPERATOR LEGAL NAME]
+Duy Thai, individually
 
-By: ___________________________________  
-Name: Duy Thai  
-Title: __________________________________  
+Signature: ______________________________
 Date: __________________________________
