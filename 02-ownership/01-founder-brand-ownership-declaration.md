@@ -33,5 +33,6 @@ This Declaration concerns brand and intellectual-property rights only. It does n
 
 Duy Hoang Thai
 
-Signature: ______________________________  
-Date: __________________________________
+Signature: ________________________________________
+
+Date: ________________________________________

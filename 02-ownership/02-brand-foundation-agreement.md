@@ -4,7 +4,7 @@
 **Version:** 1.0.0
 **Status:** Draft — Attorney Review Required
 
-This Agreement is entered into as of **[EFFECTIVE DATE]** among:
+This Agreement is entered into as of the date this Agreement is fully executed by all Parties below (the “Effective Date”), among:
 
 - **Duy Hoang Thai**, individually, solely for obligations expressly imposed on the Founder;
 - **OCD LLC**, an Oklahoma limited liability company (“Brand Owner”); and
@@ -115,19 +115,61 @@ Each Party represents that:
 
 ## 13. Indemnity
 
-The final execution version should allocate responsibility for undisclosed ownership claims, unauthorized use, regulatory violations, and breaches in a manner approved by counsel.
+**13.1 Founder Indemnity.** Founder shall indemnify, defend, and hold harmless Brand Owner and Authorized Operator from and against any claims, damages, liabilities, costs, and expenses (including reasonable attorneys' fees) arising out of or related to: (a) any material inaccuracy in Founder's representations or disclosures under this Agreement, including the Founder Brand Ownership Declaration and Exhibit E; (b) any undisclosed third-party ownership, license, royalty, or other claim to the Brand Assets; or (c) Founder's fraud or willful misconduct in connection with this Agreement.
+
+**13.2 Brand Owner Indemnity.** Brand Owner shall indemnify, defend, and hold harmless Founder from and against any claims, damages, liabilities, costs, and expenses (including reasonable attorneys' fees) arising out of Brand Owner's use of the Brand Assets following assignment, except to the extent arising from a breach of Founder's representations under this Agreement.
+
+**13.3 Procedure.** The indemnified Party shall provide prompt written notice of any claim for which indemnification is sought. The indemnifying Party shall have the right to control the defense with counsel reasonably acceptable to the indemnified Party, provided the indemnified Party may participate in the defense at its own expense, and the indemnifying Party shall not settle any claim in a manner that imposes liability or admits fault on the indemnified Party without its prior written consent.
+
+**13.4 Cap.** Except for claims arising from fraud, willful misconduct, or a breach of the chain-of-title representations in this Agreement or the Founder Brand Ownership Declaration (to which no cap applies), each Party's aggregate liability under this Section 13 shall not exceed **$50,000**. *(Default figure — adjust to whatever amount reflects the actual scale of the brand relationship; this was not set by counsel.)*
 
 ## 14. Term and Termination
 
-The brand assignment is permanent subject to applicable law and any valid rescission rights.
+The brand assignment described in this Agreement is permanent subject to Applicable Law and any valid rescission rights, and is not affected by termination of the Authorized Operator license.
 
-The Authorized Operator license continues until terminated under the final counsel-approved termination provisions, which should address material breach, loss of required license, illegality, insolvency, uncured quality failures, and mutual written agreement.
+The Authorized Operator license granted under this Agreement continues until terminated as follows:
+
+(a) Brand Owner may terminate the Authorized Operator license upon written notice if Authorized Operator materially breaches this Agreement and fails to cure the breach within thirty (30) days after written notice specifying the breach in reasonable detail;
+
+(b) either Party may terminate the Authorized Operator license immediately upon written notice if Authorized Operator loses any license, permit, or registration required to lawfully operate under this Agreement, including any applicable OMMA license;
+
+(c) either Party may terminate the Authorized Operator license immediately upon written notice if the other Party's conduct becomes illegal or prohibited under Applicable Law in connection with the Brand;
+
+(d) either Party may terminate the Authorized Operator license immediately upon the other Party's insolvency, assignment for the benefit of creditors, or filing of a bankruptcy petition (whether voluntary or involuntary, if not dismissed within sixty (60) days);
+
+(e) Brand Owner may terminate the Authorized Operator license upon written notice for an uncured quality-control failure under the Quality-Control and Brand-Use Schedule that is not cured within the period specified in that Schedule, or thirty (30) days if no period is specified; or
+
+(f) by mutual written agreement of Brand Owner and Authorized Operator.
+
+Upon termination of the Authorized Operator license, Authorized Operator shall immediately cease use of the Brand Assets, except as reasonably necessary to wind down existing inventory in a manner consistent with Brand Owner's written instructions.
 
 Termination of the operator license does not reverse the Founder assignment.
 
 ## 15. General Terms
 
-Final counsel-approved terms must address notices, amendments, assignment, waiver, integration, severability, counterparts, electronic signatures, governing law, venue, dispute resolution, remedies, and attorneys' fees.
+**15.1 Notices.** All notices under this Agreement shall be in writing and delivered by email with confirmation of receipt, or by certified mail, return receipt requested, to the addresses set forth in the applicable Exhibits or such other address as a Party designates in writing.
+
+**15.2 Amendment.** This Agreement may be amended only by a written instrument signed by all Parties.
+
+**15.3 Assignment.** Neither Founder nor Authorized Operator may assign this Agreement without Brand Owner's prior written consent. Brand Owner may assign this Agreement in connection with a sale of substantially all of its assets or a change of control, subject to Section 10 (Transfers).
+
+**15.4 Waiver.** No waiver of any provision of this Agreement is effective unless in writing and signed by the waiving Party. No waiver of any breach is deemed a waiver of any subsequent breach.
+
+**15.5 Integration.** This Agreement, together with its Exhibits, constitutes the entire agreement among the Parties regarding its subject matter and supersedes all prior agreements and understandings, written or oral, regarding that subject matter.
+
+**15.6 Severability.** If any provision of this Agreement is held invalid or unenforceable, the remaining provisions remain in full force and effect, and the invalid provision shall be modified to the minimum extent necessary to make it enforceable while preserving its intent.
+
+**15.7 Counterparts; Electronic Signatures.** This Agreement may be executed in counterparts, each of which is an original, and all of which together constitute one instrument. Electronic signatures, including signatures transmitted via DocuSign or a similar service, are valid and binding to the same extent as original signatures.
+
+**15.8 Governing Law; Venue.** This Agreement is governed by the laws of the State of Oklahoma, without regard to its conflict-of-laws principles. The Parties consent to the exclusive jurisdiction and venue of the state and federal courts located in Oklahoma County, Oklahoma.
+
+**15.9 Dispute Resolution.** The Parties shall first attempt in good faith to resolve any dispute arising out of this Agreement through direct negotiation between authorized representatives within thirty (30) days after written notice of the dispute. If the dispute remains unresolved, either Party may pursue any remedy available at law or in equity in the courts identified in Section 15.8. *(No arbitration provision included — disputes proceed in the courts identified above. This is a default choice, not a counsel-reviewed decision; arbitration can be added later if preferred.)*
+
+**15.10 Remedies; Attorneys' Fees.** In addition to any other remedy available at law or in equity, the prevailing Party in any action to enforce this Agreement is entitled to recover its reasonable attorneys' fees and costs from the non-prevailing Party.
+
+**15.11 Survival.** Sections regarding Confidentiality, Indemnity, Regulatory Separation, Representations, and this Section 15 survive termination of this Agreement.
+
+**15.12 Opportunity to Consult Counsel.** Each Party acknowledges that it has had the opportunity to review this Agreement with independent legal counsel of its choosing prior to execution, and that any decision not to do so was made knowingly and voluntarily.
 
 ## Signatures
 
@@ -135,21 +177,29 @@ Final counsel-approved terms must address notices, amendments, assignment, waive
 
 Duy Hoang Thai
 
-Signature: ______________________________
-Date: __________________________________
+Signature: ________________________________________
+
+Date: ________________________________________
+
 
 ### Brand Owner
 
 OCD LLC
 
-By: ___________________________________
+By: ________________________________________
+
 Name: Duy Hoang Thai
-Title: __________________________________
-Date: __________________________________
+
+Title: ________________________________________
+
+Date: ________________________________________
+
 
 ### Authorized Operator
 
 Duy Hoang Thai, individually
 
-Signature: ______________________________
-Date: __________________________________
+Signature: ________________________________________
+
+Date: ________________________________________
+

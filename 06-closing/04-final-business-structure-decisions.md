@@ -3,7 +3,7 @@
 **Document ID:** OCD-CLOSE-004  
 **Version:** 1.0  
 **Status:** Draft — Attorney Review Required  
-**Effective Date:** [REQUIRED]
+**Effective Date:** The date each governing document is fully executed by all parties (DocuSign completion date). No fixed calendar date is set in advance.
 
 This document records the parties’ agreed business structure and is intended to be read together with the executed brand-foundation, licensing, and Flora Summit partnership documents. If a conflict exists, the signed operative agreement controls.
 
@@ -20,21 +20,31 @@ This document records the parties’ agreed business structure and is intended t
 
 ### OCD LLC
 
-By: ___________________________________  
+By: ________________________________________
+
 Name: Duy Hoang Thai  
-Title: __________________________________  
-Date: __________________________________
+
+Title: ________________________________________
+
+Date: ________________________________________
+
 
 ### Authorized Operator
 
 Duy Hoang Thai, individually
 
-Signature: ______________________________  
-Date: __________________________________
+Signature: ________________________________________
+
+Date: ________________________________________
+
 
 ### Flora Summit LLC
 
-By: ___________________________________  
+By: ________________________________________
+
 Name: Brandon Lai  
-Title: __________________________________  
-Date: __________________________________
+
+Title: ________________________________________
+
+Date: ________________________________________
+

@@ -22,6 +22,14 @@ As of the Closing Date, the undersigned certify that the repository contains:
 
 ## Certification
 
-Duy Hoang Thai: ______________________________ Date: ____________
+Duy Hoang Thai
 
-OCD LLC: _________________________ Date: ____________
+Signature: ________________________________________
+
+Date: ________________________________________
+
+OCD LLC
+
+By: ________________________________________
+
+Date: ________________________________________

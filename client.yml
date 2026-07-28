@@ -18,10 +18,10 @@ brand:
   short_name: OCD
   full_name: Obsessive Cannabis Disorder
   owner_legal_name: OCD LLC
-  owner_formation_status: REQUIRED
+  owner_formation_status: Formed (Oklahoma LLC) — formation completed 07/21/2026
   owner_state: Oklahoma
-  owner_entity_number: REQUIRED
-  owner_address: TO_BE_COMPLETED
+  owner_entity_number: 3513970138
+  owner_address: 629 W Main St, STE 10010, Oklahoma City, OK 73102 (registered agent: Entity Protect Registered Agent Services LLC)
   owner_manager: Duy Hoang Thai
 authorized_operator:
   legal_name: Duy Hoang Thai
@@ -33,15 +33,14 @@ authorized_operator:
   ownership_percentage_by_duy_thai: not-applicable
   identity_verification_record: 08-records/licenses/duy-thai-drivers-license.jpg
   identity_verification_exhibit: Exhibit G
-  omma_license_type: REQUIRED
-  omma_license_number: REQUIRED
-  omma_license_expiration: REQUIRED
-  omma_status_verified_date: REQUIRED
+  omma_license_applicable: false
+  omma_note: Licensed distribution held by a separate distro LLC, not a Party to this Agreement — see Exhibit F "Other Operators"
+  distro_entity_legal_name: REQUIRED
 flora_summit:
   legal_name: Flora Summit LLC
   state: Oklahoma
   entity_number: REQUIRED
-  address: TO_BE_COMPLETED
+  address: Oklahoma City, Oklahoma (TO_BE_COMPLETED — full street address)
   notice_email: TO_BE_COMPLETED
   authorized_signer_name: Brandon Lai
   authorized_signer_title: TO_BE_CONFIRMED
@@ -54,7 +53,7 @@ relationship:
   - prize promotions
   - chance-based promotional programs
   - substantially similar OCD-branded promotions
-  intended_duration: perpetual-subject-to-final-counsel-approved-termination-rights
+  intended_duration: ten-year-initial-term-with-successive-five-year-auto-renewal
   survives_campaign_and_service_termination: true
   change_of_operator_does_not_terminate: true
   controlled_entity_coverage: true
@@ -67,9 +66,9 @@ relationship:
   shared_program_participation_does_not_waive_exclusivity: true
   flora_summit_platform_exclusive_to_ocd: false
 execution:
-  effective_date: REQUIRED
+  effective_date: date-of-full-execution-per-docusign-completion-certificate
   governing_law: Oklahoma
-  venue_county: REQUIRED
+  venue_county: Oklahoma
   electronic_signatures_allowed: true
   counterparts_allowed: true
   attorney_review_completed: false

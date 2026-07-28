@@ -16,7 +16,10 @@ This consent does not approve any transfer of an OMMA license or licensed cannab
 
 OCD LLC
 
-By: ___________________________________  
+By: ________________________________________
+
 Name: Duy Hoang Thai  
-Title: __________________________________  
-Date: __________________________________
+Title: ________________________________________
+
+Date: ________________________________________
+

@@ -12,14 +12,12 @@
 
 ## OMMA
 
-- License type: `REQUIRED`
-- License number: `REQUIRED`
-- Licensed premises: `REQUIRED`
-- Expiration: `REQUIRED`
-- Status: `REQUIRED`
-- Verified date: `REQUIRED`
-- Verification record: `08-records/licenses/` — see Exhibit G (Government-Issued Identification) for identity verification; OMMA licensing verification record still required separately
+**Not Applicable to this Agreement.** Neither the Authorized Operator (Duy Hoang Thai, individually) nor Brand Owner (OCD LLC) holds an OMMA license. Licensed cannabis distribution activity involving OCD-branded products is conducted through a separate distribution entity that is not a Party to this Agreement — see "Other Operators" below. This Agreement governs brand ownership, brand licensing, and the Flora Summit sweepstakes appointment only, and does not itself require OMMA licensure of its Parties.
 
 ## Other Operators
 
 List each processor, distributor, manufacturer, grower, dispensary, management entity, or affiliate expected to use or commercially exploit OCD.
+
+- **Distribution entity:** `REQUIRED — legal name of Duy's distribution LLC`
+- **Relationship to OCD:** Licensed distributor of OCD-branded products to participating retailers/dispensaries (not a Party to this Agreement)
+- **OMMA license:** Held independently by this entity; not verified or tracked as part of this Agreement's execution requirements
