@@ -24,16 +24,16 @@ The undersigned confirm that the final documents identified below were completed
 2. ______________________________________
 3. ______________________________________
 
-### Obsessive Cannabis Disorder LLC
+### OCD LLC
 
 By: ___________________________________  
-Name: Duy Thai  
+Name: Duy Hoang Thai  
 Title: __________________________________  
 Date: __________________________________
 
 ### Authorized Operator
 
-Duy Thai, individually
+Duy Hoang Thai, individually
 
 Signature: ______________________________  
 Date: __________________________________

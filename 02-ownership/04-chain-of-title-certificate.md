@@ -22,6 +22,6 @@ As of the Closing Date, the undersigned certify that the repository contains:
 
 ## Certification
 
-Duy Thai: ______________________________ Date: ____________
+Duy Hoang Thai: ______________________________ Date: ____________
 
-Obsessive Cannabis Disorder LLC: _________________________ Date: ____________
+OCD LLC: _________________________ Date: ____________

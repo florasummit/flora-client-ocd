@@ -3,7 +3,7 @@
 **Document ID:** OCD-ADM-002  
 **Status:** Required Before Signature
 
-Duy Thai should answer each question completely.
+Duy Hoang Thai should answer each question completely.
 
 1. When was the OCD name first selected?
 2. Who suggested or created the name?
@@ -18,7 +18,7 @@ Duy Thai should answer each question completely.
 11. Who controls the domains, social accounts, email accounts, and source artwork?
 12. Does any package contain third-party artwork, fonts, photography, or licensed elements?
 13. Identify every processor, distributor, manufacturer, retailer, manager, or affiliate currently authorized to use OCD.
-14. Identify every entity owned or controlled by Duy Thai that is involved with OCD.
+14. Identify every entity owned or controlled by Duy Hoang Thai that is involved with OCD.
 15. Identify any planned sale, investment, restructuring, new licensee, or ownership transfer.
 
 Attach supporting records.

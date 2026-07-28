@@ -12,7 +12,7 @@
 
 | ID | Document | Signature |
 |---|---|---|
-| OCD-OWN-001 | Founder Brand Ownership Declaration | Duy Thai |
+| OCD-OWN-001 | Founder Brand Ownership Declaration | Duy Hoang Thai |
 | OCD-OWN-002 | Intellectual Property Assignment | Incorporated into Brand Foundation Agreement |
 | OCD-OWN-003 | Brand Owner Acceptance Consent | Brand Owner |
 | OCD-OWN-004 | Chain-of-Title Certificate | Closing certification |
@@ -29,7 +29,7 @@
 
 | ID | Document | Signature |
 |---|---|---|
-| OCD-FS-001 | Exclusive Sweepstakes Partnership Agreement | Brand Owner, Operator, Duy Thai, Flora Summit |
+| OCD-FS-001 | Exclusive Sweepstakes Partnership Agreement | Brand Owner, Operator, Duy Hoang Thai, Flora Summit |
 | OCD-FS-002 | Controlled-Entity / Operator Joinder | Future entity, when needed |
 | OCD-FS-003 | Transfer and Successor Assumption | Buyer/transferee, when needed |
 | OCD-FS-004 | Change-of-Control Notice | Notice form |

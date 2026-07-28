@@ -4,8 +4,8 @@
 
 Signers:
 
-- Duy Thai
-- Obsessive Cannabis Disorder LLC
+- Duy Hoang Thai
+- OCD LLC
 - Authorized Operator
 
 Documents:
@@ -19,9 +19,9 @@ Documents:
 
 Signers:
 
-- Obsessive Cannabis Disorder LLC
+- OCD LLC
 - Authorized Operator
-- Duy Thai, limited personal covenant only
+- Duy Hoang Thai, limited personal covenant only
 - Flora Summit LLC
 
 Document:

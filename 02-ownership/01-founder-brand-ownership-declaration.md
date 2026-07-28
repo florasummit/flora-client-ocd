@@ -4,11 +4,11 @@
 **Version:** 1.0.0  
 **Status:** Draft — Attorney Review Required
 
-I, **Duy Thai**, declare as follows:
+I, **Duy Hoang Thai**, declare as follows:
 
 ## 1. Purpose
 
-This Declaration records my good-faith knowledge concerning the origin, adoption, ownership, development, and commercial use of the OCD / Obsessive Cannabis Disorder brand before the contemplated transfer or confirmation of ownership in Obsessive Cannabis Disorder LLC.
+This Declaration records my good-faith knowledge concerning the origin, adoption, ownership, development, and commercial use of the OCD / Obsessive Cannabis Disorder brand before the contemplated transfer or confirmation of ownership in OCD LLC.
 
 ## 2. Statements
 
@@ -31,7 +31,7 @@ This Declaration concerns brand and intellectual-property rights only. It does n
 
 ## Signature
 
-Duy Thai
+Duy Hoang Thai
 
 Signature: ______________________________  
 Date: __________________________________

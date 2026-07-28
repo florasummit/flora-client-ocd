@@ -5,7 +5,7 @@
 
 ## Founder
 
-- [ ] Duy Thai full legal name confirmed
+- [ ] Duy Hoang Thai full legal name confirmed
 - [ ] Address confirmed
 - [ ] Email confirmed
 - [ ] Founder creation/adoption story documented
@@ -13,7 +13,7 @@
 
 ## Brand Owner
 
-- [ ] Obsessive Cannabis Disorder LLC formed
+- [ ] OCD LLC formed
 - [ ] Exact filed name confirmed
 - [ ] Oklahoma entity number obtained
 - [ ] Operating agreement reviewed

@@ -7,7 +7,7 @@
 
 This document records the parties’ agreed business structure and is intended to be read together with the executed brand-foundation, licensing, and Flora Summit partnership documents. If a conflict exists, the signed operative agreement controls.
 
-1. **OCD brand ownership.** Obsessive Cannabis Disorder LLC is and remains the sole owner of the OCD Brand, trademarks, goodwill, and related intellectual property unless expressly assigned in a signed writing.
+1. **OCD brand ownership.** OCD LLC is and remains the sole owner of the OCD Brand, trademarks, goodwill, and related intellectual property unless expressly assigned in a signed writing.
 2. **Independent Flora entity.** Flora Summit LLC is an independent marketing, advertising, promotions, sweepstakes, compliance, and technology-services company. Brandon Lai is the designated signer for Flora Summit LLC, subject to confirmation of his official company title and signing authority.
 3. **No ownership transfer or joint venture.** The exclusive contractual partnership does not transfer ownership of the OCD Brand to Flora Summit and is not intended to create a partnership, joint venture, employment relationship, or ownership interest in a licensed cannabis business.
 4. **Exclusive OCD sweepstakes relationship.** Flora Summit holds the exclusive contractual right to provide, administer, or authorize OCD-branded sweepstakes, promotional drawings, prize promotions, chance-based promotional programs, and substantially similar activities, subject to the operative agreement and applicable law.
@@ -18,16 +18,16 @@ This document records the parties’ agreed business structure and is intended t
 
 ## Acknowledgment
 
-### Obsessive Cannabis Disorder LLC
+### OCD LLC
 
 By: ___________________________________  
-Name: Duy Thai  
+Name: Duy Hoang Thai  
 Title: __________________________________  
 Date: __________________________________
 
 ### Authorized Operator
 
-Duy Thai, individually
+Duy Hoang Thai, individually
 
 Signature: ______________________________  
 Date: __________________________________

@@ -1,11 +1,11 @@
-# Written Consent of Obsessive Cannabis Disorder LLC
+# Written Consent of OCD LLC
 
 **Document ID:** OCD-OWN-003  
 **Status:** Draft
 
-The undersigned, being the authorized manager or member of Obsessive Cannabis Disorder LLC, approves:
+The undersigned, being the authorized manager or member of OCD LLC, approves:
 
-1. acceptance of the OCD Brand Assets from Duy Thai;
+1. acceptance of the OCD Brand Assets from Duy Hoang Thai;
 2. execution of the OCD Brand Foundation Agreement;
 3. maintenance of ownership and chain-of-title records;
 4. the limited license granted to the Authorized Operator;
@@ -14,9 +14,9 @@ The undersigned, being the authorized manager or member of Obsessive Cannabis Di
 
 This consent does not approve any transfer of an OMMA license or licensed cannabis-business ownership.
 
-Obsessive Cannabis Disorder LLC
+OCD LLC
 
 By: ___________________________________  
-Name: Duy Thai  
+Name: Duy Hoang Thai  
 Title: __________________________________  
 Date: __________________________________

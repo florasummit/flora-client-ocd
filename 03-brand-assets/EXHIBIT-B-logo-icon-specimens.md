@@ -22,7 +22,7 @@ The Brand Asset Manifest is automatically generated during the repository build 
 **Creator / Designer:** As documented in the Founder Brand Ownership Declaration and supporting brand records.  
 **Creation Date:** As documented in the Founder Brand Ownership Declaration and supporting brand records.  
 **First Commercial Use:** As documented in the applicable trademark and brand-use records, if any.  
-**Current Owner:** Obsessive Cannabis Disorder LLC (upon execution of the Founder Assignment Agreement)  
+**Current Owner:** OCD LLC (upon execution of the Founder Assignment Agreement)  
 **Rights Evidence:**
 - Founder Brand Ownership Declaration
 - OCD Brand Foundation Agreement

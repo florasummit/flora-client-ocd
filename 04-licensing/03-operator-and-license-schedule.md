@@ -1,10 +1,10 @@
-# Exhibit E — Authorized Operator and License Schedule
+# Exhibit F — Authorized Operator and License Schedule
 
 ## Authorized Operator
 
-- Exact legal name: Duy Thai
+- Exact legal name: Duy Hoang Thai
 - Capacity: Individual
-- Address: `REQUIRED`
+- Address: 520 W Main St, Unit 413, Oklahoma City, OK 73102-2220
 - Entity number: Not applicable
 - Manager: Not applicable
 - Members and percentages: Not applicable
@@ -18,7 +18,7 @@
 - Expiration: `REQUIRED`
 - Status: `REQUIRED`
 - Verified date: `REQUIRED`
-- Verification record: `08-records/licenses/`
+- Verification record: `08-records/licenses/` — see Exhibit G (Government-Issued Identification) for identity verification; OMMA licensing verification record still required separately
 
 ## Other Operators
 

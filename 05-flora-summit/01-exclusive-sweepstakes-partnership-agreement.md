@@ -6,9 +6,9 @@
 
 This Agreement is entered into as of **[EFFECTIVE DATE]** by and among:
 
-- **Obsessive Cannabis Disorder LLC** (“Brand Owner”);
-- **Duy Thai, individually** (“Authorized Operator”);
-- **Duy Thai**, individually, solely for the limited Founder covenant expressly stated herein; and
+- **OCD LLC** (“Brand Owner”);
+- **Duy Hoang Thai, individually** (“Authorized Operator”);
+- **Duy Hoang Thai**, individually, solely for the limited Founder covenant expressly stated herein; and
 - **Flora Summit LLC** (“Flora Summit”).
 
 ## 1. Partnership Purpose
@@ -67,7 +67,7 @@ The appointment still applies when a processor, distributor, retailer, manufactu
 
 ## 6. Limited Founder Covenant
 
-Duy Thai personally covenants that he will not knowingly use, direct, fund, cause, or participate in:
+Duy Hoang Thai personally covenants that he will not knowingly use, direct, fund, cause, or participate in:
 
 - a Controlled Entity;
 - nominee;
@@ -84,7 +84,7 @@ This covenant:
 
 - is limited to OCD and its goodwill;
 - does not guarantee performance by every separate entity;
-- does not make Duy Thai personally liable for all company obligations;
+- does not make Duy Hoang Thai personally liable for all company obligations;
 - does not prohibit disclosed ordinary vendor or retailer payments; and
 - does not cover genuinely independent brands.
 
@@ -157,23 +157,23 @@ Final counsel-approved terms must address notices, amendments, waiver, integrati
 
 ### Brand Owner
 
-Obsessive Cannabis Disorder LLC
+OCD LLC
 
 By: ___________________________________
-Name: Duy Thai
+Name: Duy Hoang Thai
 Title: __________________________________
 Date: __________________________________
 
 ### Authorized Operator
 
-Duy Thai, individually
+Duy Hoang Thai, individually
 
 Signature: ______________________________
 Date: __________________________________
 
 ### Founder — Limited Personal Covenant Only
 
-Duy Thai
+Duy Hoang Thai
 
 Signature: ______________________________
 Date: __________________________________

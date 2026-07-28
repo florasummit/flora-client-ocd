@@ -9,10 +9,10 @@
 
 This repository contains the OCD-specific ownership, intellectual-property, brand licensing, authorized-operator, Flora Summit exclusivity, trademark-readiness, execution, and closing records for:
 
-- **Founder:** Duy Thai
+- **Founder:** Duy Hoang Thai
 - **Brand:** OCD / Obsessive Cannabis Disorder
-- **Proposed Brand Owner:** Obsessive Cannabis Disorder LLC
-- **Authorized Operator:** Duy Thai's processor/distributor entity, exact legal name required
+- **Proposed Brand Owner:** OCD LLC
+- **Authorized Operator:** Duy Hoang Thai's processor/distributor entity, exact legal name required
 - **Exclusive OCD Sweepstakes Partner:** Flora Summit LLC
 
 The reusable Flora Summit legal and compliance framework remains in `flora-legal-os`. This repository is the client-specific implementation and record set.
@@ -21,7 +21,7 @@ The reusable Flora Summit legal and compliance framework remains in `flora-legal
 
 The package is designed to accomplish four things cleanly:
 
-1. document how Duy Thai created, acquired, or controls the OCD brand;
+1. document how Duy Hoang Thai created, acquired, or controls the OCD brand;
 2. place the identified OCD Brand Assets into the correct brand-owning LLC;
 3. permit the licensed processor/distributor to use the brand without becoming the brand owner merely through use; and
 4. establish Flora Summit LLC as the exclusive long-term OCD sweepstakes partner, including reasonable protections for changes in operator, controlled entities, brand transfers, successors, and concealed workarounds.
@@ -31,10 +31,10 @@ The package is designed to accomplish four things cleanly:
 To keep execution easy, the core package is compressed into three principal signing events:
 
 1. **OCD Brand Foundation Agreement**  
-   Duy Thai + Brand Owner + Authorized Operator
+   Duy Hoang Thai + Brand Owner + Authorized Operator
 
 2. **OCD Exclusive Sweepstakes Partnership Agreement**  
-   Brand Owner + Authorized Operator + Duy Thai for limited personal covenants + Flora Summit LLC
+   Brand Owner + Authorized Operator + Duy Hoang Thai for limited personal covenants + Flora Summit LLC
 
 3. **Flora Summit Master Commercial Agreement Package**  
    Maintained and generated from `flora-legal-os`
@@ -77,7 +77,7 @@ scripts/           Package generation and validation scripts
 
 Complete every `REQUIRED` field in `client.yml` and the exhibits, especially:
 
-- exact legal name of Obsessive Cannabis Disorder LLC after formation;
+- exact legal name of OCD LLC after formation;
 - exact legal name of the processor/distributor;
 - entity numbers and addresses;
 - OMMA license type, number, status, and expiration;

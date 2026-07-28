@@ -6,9 +6,9 @@
 
 This Agreement is entered into as of **[EFFECTIVE DATE]** among:
 
-- **Duy Thai**, individually, solely for obligations expressly imposed on the Founder;
-- **Obsessive Cannabis Disorder LLC**, an Oklahoma limited liability company (“Brand Owner”); and
-- **Duy Thai, individually** (“Authorized Operator”).
+- **Duy Hoang Thai**, individually, solely for obligations expressly imposed on the Founder;
+- **OCD LLC**, an Oklahoma limited liability company (“Brand Owner”); and
+- **Duy Hoang Thai, individually** (“Authorized Operator”).
 
 ## 1. Commercial Purpose
 
@@ -24,7 +24,7 @@ The Parties wish to establish a clear chain of title for the OCD brand, place id
 
 ## 3. Founder Assignment
 
-Subject to disclosed exceptions, Duy Thai hereby assigns to Brand Owner all of his right, title, and interest in the Brand Assets, together with the goodwill associated with the business symbolized by those assets.
+Subject to disclosed exceptions, Duy Hoang Thai hereby assigns to Brand Owner all of his right, title, and interest in the Brand Assets, together with the goodwill associated with the business symbolized by those assets.
 
 The assignment does not include:
 
@@ -33,7 +33,7 @@ The assignment does not include:
 - regulated inventory;
 - licensed premises;
 - third-party property disclosed in the exhibits; or
-- rights Duy Thai does not own and has accurately disclosed.
+- rights Duy Hoang Thai does not own and has accurately disclosed.
 
 ## 4. Brand Owner Acceptance
 
@@ -60,19 +60,19 @@ Brand Owner may establish reasonable quality and brand-use standards. Authorized
 
 ## 7. Founder and Control Disclosures
 
-Duy Thai and Authorized Operator shall disclose their ownership and control relationship and promptly update material changes.
+Duy Hoang Thai and Authorized Operator shall disclose their ownership and control relationship and promptly update material changes.
 
-Duy Thai personally represents that the disclosure is materially accurate as of execution.
+Duy Hoang Thai personally represents that the disclosure is materially accurate as of execution.
 
 ## 8. Limited Founder Covenant
 
-Duy Thai personally covenants that he will not knowingly direct, fund, authorize, or participate in using a Controlled Entity, nominee, intermediary, undisclosed side arrangement, or related operator for the principal purpose or material effect of defeating OCD-specific contractual rights validly granted by Brand Owner.
+Duy Hoang Thai personally covenants that he will not knowingly direct, fund, authorize, or participate in using a Controlled Entity, nominee, intermediary, undisclosed side arrangement, or related operator for the principal purpose or material effect of defeating OCD-specific contractual rights validly granted by Brand Owner.
 
 This covenant:
 
 - is limited to the OCD Brand and its goodwill;
 - does not create personal liability for ordinary company debts;
-- does not prohibit Duy Thai from owning or operating genuinely independent brands; and
+- does not prohibit Duy Hoang Thai from owning or operating genuinely independent brands; and
 - does not prevent lawful transactions that honor disclosed OCD obligations.
 
 ## 9. Brand Continuity
@@ -133,23 +133,23 @@ Final counsel-approved terms must address notices, amendments, assignment, waive
 
 ### Founder
 
-Duy Thai
+Duy Hoang Thai
 
 Signature: ______________________________
 Date: __________________________________
 
 ### Brand Owner
 
-Obsessive Cannabis Disorder LLC
+OCD LLC
 
 By: ___________________________________
-Name: Duy Thai
+Name: Duy Hoang Thai
 Title: __________________________________
 Date: __________________________________
 
 ### Authorized Operator
 
-Duy Thai, individually
+Duy Hoang Thai, individually
 
 Signature: ______________________________
 Date: __________________________________

@@ -5,8 +5,9 @@ repository:
   confidentiality: private-confidential
   status: draft-attorney-review-required
 founder:
-  legal_name: Duy Thai
-  address: TO_BE_COMPLETED
+  legal_name: Duy Hoang Thai
+  legal_name_full_per_id: Duy Hoang Thai
+  address: 520 W Main St, Unit 413, Oklahoma City, OK 73102-2220
   email: TO_BE_COMPLETED
   signs_personally:
     founder_disclosures: true
@@ -16,20 +17,22 @@ founder:
 brand:
   short_name: OCD
   full_name: Obsessive Cannabis Disorder
-  proposed_owner_legal_name: Obsessive Cannabis Disorder LLC
+  owner_legal_name: OCD LLC
   owner_formation_status: REQUIRED
   owner_state: Oklahoma
   owner_entity_number: REQUIRED
   owner_address: TO_BE_COMPLETED
-  owner_manager: Duy Thai
+  owner_manager: Duy Hoang Thai
 authorized_operator:
-  legal_name: Duy Thai
+  legal_name: Duy Hoang Thai
   capacity: individual
   state: Oklahoma
   entity_number: not-applicable
-  address: REQUIRED
+  address: 520 W Main St, Unit 413, Oklahoma City, OK 73102-2220
   manager: not-applicable
   ownership_percentage_by_duy_thai: not-applicable
+  identity_verification_record: 08-records/licenses/duy-thai-drivers-license.jpg
+  identity_verification_exhibit: Exhibit G
   omma_license_type: REQUIRED
   omma_license_number: REQUIRED
   omma_license_expiration: REQUIRED

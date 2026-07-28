@@ -5,7 +5,7 @@
 
 The undersigned entity (“Joining Operator”) acknowledges that:
 
-1. Obsessive Cannabis Disorder LLC owns or controls the OCD Brand rights described in the Brand Foundation Agreement;
+1. OCD LLC owns or controls the OCD Brand rights described in the Brand Foundation Agreement;
 2. Joining Operator receives only the written brand-use rights expressly granted to it;
 3. Joining Operator does not acquire brand ownership merely through use;
 4. Joining Operator will comply with applicable quality-control requirements;
