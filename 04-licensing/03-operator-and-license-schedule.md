@@ -18,6 +18,6 @@
 
 List each processor, distributor, manufacturer, grower, dispensary, management entity, or affiliate expected to use or commercially exploit OCD.
 
-- **Distribution entity:** `REQUIRED — legal name of Duy's distribution LLC`
+- **Distribution entity:** Not yet identified in this Exhibit (reference only — this entity is not a Party to this Agreement and its identification does not affect any Party's rights or obligations herein)
 - **Relationship to OCD:** Licensed distributor of OCD-branded products to participating retailers/dispensaries (not a Party to this Agreement)
 - **OMMA license:** Held independently by this entity; not verified or tracked as part of this Agreement's execution requirements

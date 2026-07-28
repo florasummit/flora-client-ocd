@@ -4,12 +4,12 @@ on:
   workflow_dispatch:
     inputs:
       build_mode:
-        description: "Choose draft while completing the package; choose final only when all REQUIRED fields are completed."
+        description: "Choose in_progress while completing the package; choose final only when all REQUIRED fields are completed."
         required: true
-        default: "draft"
+        default: "in_progress"
         type: choice
         options:
-          - draft
+          - in_progress
           - final
   push:
     paths:
@@ -46,8 +46,8 @@ jobs:
           sudo apt-get update
           sudo apt-get install -y pandoc texlive-xetex texlive-fonts-recommended
 
-      - name: Report unresolved draft fields
-        if: github.event_name == 'push' || inputs.build_mode == 'draft'
+      - name: Report unresolved fields
+        if: github.event_name == 'push' || inputs.build_mode == 'in_progress'
         continue-on-error: true
         run: python scripts/validate.py
 
@@ -61,7 +61,7 @@ jobs:
       - name: Upload package
         uses: actions/upload-artifact@v4
         with:
-          name: OCD-${{ github.event_name == 'workflow_dispatch' && inputs.build_mode || 'draft' }}-signing-package
+          name: OCD-${{ github.event_name == 'workflow_dispatch' && inputs.build_mode || 'in_progress' }}-signing-package
           if-no-files-found: error
           path: |
             09-generated/OCD-Brand-Foundation-and-Flora-Summit-Partnership-Package.md
@@ -72,7 +72,7 @@ jobs:
       - name: Upload closing certificate
         uses: actions/upload-artifact@v4
         with:
-          name: OCD-closing-certificate-${{ github.event_name == 'workflow_dispatch' && inputs.build_mode || 'draft' }}
+          name: OCD-closing-certificate-${{ github.event_name == 'workflow_dispatch' && inputs.build_mode || 'in_progress' }}
           if-no-files-found: ignore
           path: |
             09-generated/OCD-Closing-Certificate.md

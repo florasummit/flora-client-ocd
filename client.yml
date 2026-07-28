@@ -35,11 +35,11 @@ authorized_operator:
   identity_verification_exhibit: Exhibit G
   omma_license_applicable: false
   omma_note: Licensed distribution held by a separate distro LLC, not a Party to this Agreement — see Exhibit F "Other Operators"
-  distro_entity_legal_name: REQUIRED
+  distro_entity_legal_name: NOT_YET_IDENTIFIED  # reference only, not a Party, does not block signing
 flora_summit:
   legal_name: Flora Summit LLC
   state: Oklahoma
-  entity_number: REQUIRED
+  entity_number: NOT_YET_TRACKED  # internal record only — does not appear anywhere in the signed document, not a blocker for sending
   address: Oklahoma City, Oklahoma (TO_BE_COMPLETED — full street address)
   notice_email: TO_BE_COMPLETED
   authorized_signer_name: Brandon Lai
@@ -75,5 +75,5 @@ execution:
 build:
   package_title: OCD Brand Foundation and Flora Summit Partnership Package
   output_basename: OCD-Brand-Foundation-and-Flora-Summit-Partnership-Package
-  draft_watermark: false
+  legacy_watermark_flag: false  # unused, never implemented in build.py; kept only for backward compatibility
   require_no_placeholders_for_final: true

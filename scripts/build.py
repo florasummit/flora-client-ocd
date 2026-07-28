@@ -86,7 +86,7 @@ parts = [
     ROOT / "04-licensing/04-government-id-schedule.md",
     ROOT / "05-flora-summit/01-exclusive-sweepstakes-partnership-agreement.md",
     ROOT / "06-closing/04-final-business-structure-decisions.md",
-    ROOT / "06-closing/01-signature-packet-cover.md",
+    # ROOT / "06-closing/01-signature-packet-cover.md",  # internal envelope-planning reference for Flora Summit only — not part of what the counterparty signs
     # ROOT / "06-closing/03-closing-certificate.md",  # held back until Flora Summit MCA/Order Form/Fee Schedule for OCD exists — see 00-admin/ATTORNEY-REVIEW-COVER-MEMO.md
 ]
 
@@ -143,7 +143,7 @@ print(f"Built package in {OUT}")
 # Always keep the Closing Certificate current alongside the main package,
 # even though it's excluded from the main signing docx/pdf above (it isn't
 # ready to send until the Flora Summit MCA/Order Form/Fee Schedule package
-# is also done). Building it here just keeps a current reference draft
+# is also done). Building it here just keeps a current reference copy
 # available in 09-generated/ — it does not get sent or signed by itself.
 closing_cert_script = ROOT / "scripts" / "build_closing_certificate.py"
 if closing_cert_script.exists():

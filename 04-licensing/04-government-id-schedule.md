@@ -15,8 +15,8 @@ This Exhibit verifies **identity only**. It does not constitute, and shall not b
 - **Expiration date:** 08/31/2027
 - **Class:** D
 - **State of issuance:** Oklahoma
-- **Verified by:** `REQUIRED`
-- **Verification date:** `REQUIRED`
+- **Verified by:** Brandon Lai, Flora Summit LLC
+- **Verification date:** ________________________________________
 
 ## Specimen
 

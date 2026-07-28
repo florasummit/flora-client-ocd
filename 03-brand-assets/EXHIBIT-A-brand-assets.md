@@ -2,11 +2,11 @@
 
 | ID | Type | Name / Description | Current Claimed Owner |
 |---|---|---|---|
-| OCD-A-001 | Word mark | OCD | Duy Hoang Thai / confirm |
-| OCD-A-002 | Word mark | Obsessive Cannabis Disorder | Duy Hoang Thai / confirm |
-| OCD-A-003 | Logo | Primary OCD logo | Duy Hoang Thai / confirm |
-| OCD-A-004 | Icon | Standalone icon | Duy Hoang Thai / confirm |
-| OCD-A-005 | Packaging | Current representative OCD packaging design; not final production artwork | Duy Hoang Thai / confirm |
+| OCD-A-001 | Word mark | OCD | Duy Hoang Thai |
+| OCD-A-002 | Word mark | Obsessive Cannabis Disorder | Duy Hoang Thai |
+| OCD-A-003 | Logo | Primary OCD logo | Duy Hoang Thai |
+| OCD-A-004 | Icon | Standalone icon | Duy Hoang Thai |
+| OCD-A-005 | Packaging | Current representative OCD packaging design; not final production artwork. See Exhibit C — the specimen also includes separately-owned Flora Summit campaign material not covered by this row. | Duy Hoang Thai |
 
 ## Asset Detail Requirements
 

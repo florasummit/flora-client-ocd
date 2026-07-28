@@ -49,7 +49,9 @@ The appointment, once in effect, survives expiration or termination of campaign-
 
 The exclusive appointment granted under this Agreement may be terminated prior to the end of its then-current term only as follows:
 
-(a) by either Party upon written notice if the other Party materially breaches this Agreement and fails to cure the breach within thirty (30) days after written notice specifying the breach in reasonable detail;
+(a) by Flora Summit upon written notice if Brand Owner or Authorized Operator materially breaches this Agreement and fails to cure the breach within thirty (30) days after written notice specifying the breach in reasonable detail;
+
+(a-1) by Brand Owner or Authorized Operator upon written notice if Flora Summit materially breaches this Agreement and fails to cure the breach within one hundred twenty (120) days after written notice specifying the breach in reasonable detail, or such longer period as Flora Summit reasonably requires while diligently pursuing a cure that cannot be completed within 120 days, except where Applicable Law requires otherwise;
 
 (b) by either Party immediately upon written notice if the other Party's conduct becomes illegal or prohibited under Applicable Law in connection with OCD Sweepstakes Activities, including loss of any license required to lawfully perform this Agreement;
 
@@ -150,7 +152,7 @@ In the event of a breach of this Agreement, the non-breaching Party is entitled 
 
 (c) recover reasonable attorneys' fees and costs if it is the prevailing Party in an action to enforce this Agreement; and
 
-(d) a cure period of thirty (30) days following written notice of a curable breach, except that no cure period applies to a breach of Section 3 (Exclusive Appointment) or Section 6 (Limited Founder Covenant), which may be enforced immediately given the risk of irreparable harm to Flora Summit's exclusive rights.
+(d) a cure period of thirty (30) days following written notice of a curable breach by Brand Owner or Authorized Operator, and one hundred twenty (120) days (or longer while Flora Summit is diligently pursuing a cure that reasonably cannot be completed within 120 days) following written notice of a curable breach by Flora Summit — except that no cure period applies to a breach of Section 3 (Exclusive Appointment) or Section 6 (Limited Founder Covenant), which may be enforced immediately given the risk of irreparable harm to Flora Summit's exclusive rights.
 
 This Agreement does not establish a liquidated damages amount, penalty, or punitive remedy.
 
