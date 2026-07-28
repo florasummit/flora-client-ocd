@@ -1,8 +1,5 @@
 # OCD Chain-of-Title Certificate
 
-**Document ID:** OCD-OWN-004  
-**Status:** Closing Document
-
 As of the Closing Date, the undersigned certify that the repository contains:
 
 - the Founder Brand Ownership Declaration;

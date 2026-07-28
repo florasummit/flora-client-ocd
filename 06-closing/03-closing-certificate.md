@@ -1,8 +1,5 @@
 # OCD Brand and Flora Summit Transaction Closing Certificate
 
-**Document ID:** OCD-CLOSE-003  
-**Status:** Closing Document
-
 Closing Date: ______________________________
 
 The undersigned confirm that the final documents identified below were completed and delivered:
@@ -34,7 +31,6 @@ Title: ________________________________________
 
 Date: ________________________________________
 
-
 ### Authorized Operator
 
 Duy Hoang Thai, individually
@@ -42,7 +38,6 @@ Duy Hoang Thai, individually
 Signature: ________________________________________
 
 Date: ________________________________________
-
 
 ### Flora Summit LLC
 

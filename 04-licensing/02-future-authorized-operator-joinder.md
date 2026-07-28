@@ -1,8 +1,5 @@
 # Authorized Operator Joinder
 
-**Document ID:** OCD-LIC-003  
-**Status:** Form
-
 The undersigned entity (“Joining Operator”) acknowledges that:
 
 1. OCD LLC owns or controls the OCD Brand rights described in the Brand Foundation Agreement;

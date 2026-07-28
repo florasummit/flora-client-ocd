@@ -1,9 +1,5 @@
 # OCD Brand Foundation Agreement
 
-**Document ID:** OCD-OWN-002 / OCD-LIC-001
-**Version:** 1.0.0
-**Status:** Draft — Attorney Review Required
-
 This Agreement is entered into as of the date this Agreement is fully executed by all Parties below (the “Effective Date”), among:
 
 - **Duy Hoang Thai**, individually, solely for obligations expressly imposed on the Founder;
@@ -181,7 +177,6 @@ Signature: ________________________________________
 
 Date: ________________________________________
 
-
 ### Brand Owner
 
 OCD LLC
@@ -193,7 +188,6 @@ Name: Duy Hoang Thai
 Title: ________________________________________
 
 Date: ________________________________________
-
 
 ### Authorized Operator
 

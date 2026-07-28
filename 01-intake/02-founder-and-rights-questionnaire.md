@@ -1,8 +1,5 @@
 # Founder and Prior-Rights Questionnaire
 
-**Document ID:** OCD-ADM-002  
-**Status:** Required Before Signature
-
 Duy Hoang Thai should answer each question completely.
 
 1. When was the OCD name first selected?

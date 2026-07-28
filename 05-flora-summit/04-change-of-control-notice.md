@@ -1,8 +1,5 @@
 # Notice of Proposed OCD Brand Transfer or Change of Control
 
-**Document ID:** OCD-FS-004  
-**Status:** Form
-
 Date: ______________________
 
 To: Flora Summit LLC

@@ -1,7 +1,5 @@
 # OCD Closing Checklist
 
-**Document ID:** OCD-CLOSE-002
-
 ## Entity Verification
 
 - [ ] Brand Owner formation confirmed

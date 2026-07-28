@@ -1,8 +1,5 @@
 # Quality-Control and Brand-Use Schedule
 
-**Document ID:** OCD-LIC-002  
-**Status:** Draft
-
 Authorized Operator shall:
 
 1. use only approved OCD marks and current artwork;

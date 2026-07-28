@@ -1,8 +1,6 @@
 # OCD Brand Foundation Repository
 
 **Repository:** `flora-client-ocd`  
-**Version:** 1.0.0  
-**Status:** Draft — Attorney Review Required  
 **Confidentiality:** Private & Confidential  
 
 ## Purpose

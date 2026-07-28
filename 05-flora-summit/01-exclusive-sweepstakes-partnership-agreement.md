@@ -1,9 +1,5 @@
 # OCD Exclusive Sweepstakes Partnership Agreement
 
-**Document ID:** OCD-FS-001
-**Version:** 1.0.0
-**Status:** Draft — Attorney Review Required
-
 This Agreement is entered into as of the date this Agreement is fully executed by all Parties below (the “Effective Date”), by and among:
 
 - **OCD LLC** (“Brand Owner”);
@@ -34,7 +30,6 @@ Brand Owner appoints Flora Summit as the sole and exclusive commercial partner t
 Authorized Operator acknowledges and agrees to honor the appointment.
 
 No Party shall knowingly authorize another provider to perform OCD Sweepstakes Activities without Flora Summit's prior written consent.
-
 
 ## 3.1 Shared Program Carveout
 
@@ -199,7 +194,6 @@ Title: ________________________________________
 
 Date: ________________________________________
 
-
 ### Authorized Operator
 
 Duy Hoang Thai, individually
@@ -208,7 +202,6 @@ Signature: ________________________________________
 
 Date: ________________________________________
 
-
 ### Founder — Limited Personal Covenant Only
 
 Duy Hoang Thai
@@ -216,7 +209,6 @@ Duy Hoang Thai
 Signature: ________________________________________
 
 Date: ________________________________________
-
 
 ### Flora Summit LLC
 

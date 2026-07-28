@@ -3,7 +3,7 @@ package_version: 1.0.0
 repository:
   name: flora-client-ocd
   confidentiality: private-confidential
-  status: draft-attorney-review-required
+  status: final-executed-without-independent-legal-review
 founder:
   legal_name: Duy Hoang Thai
   legal_name_full_per_id: Duy Hoang Thai
@@ -75,5 +75,5 @@ execution:
 build:
   package_title: OCD Brand Foundation and Flora Summit Partnership Package
   output_basename: OCD-Brand-Foundation-and-Flora-Summit-Partnership-Package
-  draft_watermark: true
+  draft_watermark: false
   require_no_placeholders_for_final: true

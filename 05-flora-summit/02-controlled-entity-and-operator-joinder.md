@@ -1,8 +1,5 @@
 # OCD Sweepstakes Operator Joinder
 
-**Document ID:** OCD-FS-002  
-**Status:** Form
-
 The undersigned acknowledges:
 
 1. Flora Summit LLC holds the exclusive OCD Sweepstakes Activities appointment described in the OCD Exclusive Sweepstakes Partnership Agreement.

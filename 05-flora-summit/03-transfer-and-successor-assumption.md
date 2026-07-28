@@ -1,8 +1,5 @@
 # OCD Brand Transfer and Successor Assumption
 
-**Document ID:** OCD-FS-003  
-**Status:** Transaction Form
-
 The undersigned transferee acknowledges receipt of notice concerning:
 
 - ownership of the OCD Brand;

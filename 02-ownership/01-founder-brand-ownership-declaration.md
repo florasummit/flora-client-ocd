@@ -1,9 +1,5 @@
 # Founder Brand Ownership Declaration
 
-**Document ID:** OCD-OWN-001  
-**Version:** 1.0.0  
-**Status:** Draft — Attorney Review Required
-
 I, **Duy Hoang Thai**, declare as follows:
 
 ## 1. Purpose

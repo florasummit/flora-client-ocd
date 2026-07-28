@@ -8,7 +8,6 @@ The technical specifications for each asset, including the exact file name, SHA-
 
 The Brand Asset Manifest is automatically generated during the repository build process and is incorporated into this Exhibit by reference.
 
-
 ---
 
 ## Primary OCD Logo

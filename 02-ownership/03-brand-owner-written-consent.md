@@ -1,8 +1,5 @@
 # Written Consent of OCD LLC
 
-**Document ID:** OCD-OWN-003  
-**Status:** Draft
-
 The undersigned, being the authorized manager or member of OCD LLC, approves:
 
 1. acceptance of the OCD Brand Assets from Duy Hoang Thai;

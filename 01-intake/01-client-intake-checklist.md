@@ -1,8 +1,5 @@
 # OCD Client Intake Checklist
 
-**Document ID:** OCD-ADM-001  
-**Status:** Draft
-
 ## Founder
 
 - [ ] Duy Hoang Thai full legal name confirmed
