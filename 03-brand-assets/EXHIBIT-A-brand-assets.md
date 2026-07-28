@@ -4,9 +4,9 @@
 |---|---|---|---|
 | OCD-A-001 | Word mark | OCD | Duy Hoang Thai / confirm |
 | OCD-A-002 | Word mark | Obsessive Cannabis Disorder | Duy Hoang Thai / confirm |
-| OCD-A-003 | Logo | Primary OCD logo | REQUIRED |
-| OCD-A-004 | Icon | Standalone icon | REQUIRED |
-| OCD-A-005 | Packaging | Current representative OCD packaging design; not final production artwork | REQUIRED |
+| OCD-A-003 | Logo | Primary OCD logo | Duy Hoang Thai / confirm |
+| OCD-A-004 | Icon | Standalone icon | Duy Hoang Thai / confirm |
+| OCD-A-005 | Packaging | Current representative OCD packaging design; not final production artwork | Duy Hoang Thai / confirm |
 
 ## Asset Detail Requirements
 

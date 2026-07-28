@@ -15,8 +15,6 @@ Disclose all known:
 
 ## Disclosures
 
-1. `REQUIRED`
-2. `REQUIRED`
-3. `REQUIRED`
+1. None known after reasonable inquiry by Duy Hoang Thai as of the date of this Exhibit.
 
-If none after reasonable inquiry, state that expressly.
+If additional disclosures become known, this Exhibit shall be promptly updated.

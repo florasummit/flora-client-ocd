@@ -87,7 +87,7 @@ parts = [
     ROOT / "05-flora-summit/01-exclusive-sweepstakes-partnership-agreement.md",
     ROOT / "06-closing/04-final-business-structure-decisions.md",
     ROOT / "06-closing/01-signature-packet-cover.md",
-    ROOT / "06-closing/03-closing-certificate.md",
+    # ROOT / "06-closing/03-closing-certificate.md",  # held back until Flora Summit MCA/Order Form/Fee Schedule for OCD exists — see 00-admin/ATTORNEY-REVIEW-COVER-MEMO.md
 ]
 
 basename = "OCD-Brand-Foundation-and-Flora-Summit-Partnership-Package"

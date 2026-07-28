@@ -8,7 +8,7 @@
 - Entity number: Not applicable
 - Manager: Not applicable
 - Members and percentages: Not applicable
-- Other persons of interest: `REQUIRED`
+- Other persons of interest: None known as of the date of this Exhibit
 
 ## OMMA
 

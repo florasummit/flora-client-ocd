@@ -17,9 +17,10 @@ The undersigned confirm that the final documents identified below were completed
 
 ## Open Items
 
-1. ______________________________________
-2. ______________________________________
-3. ______________________________________
+1. Flora Summit LLC entity number to be added to Final Business Structure Decisions and client records.
+2. Exhibit D (Domains and Social Assets) not yet populated — to be completed and attached before or shortly after signing.
+3. Exhibit G "Verified by" / verification date not yet completed — to be signed off by whoever confirms the identification on file.
+4. Exhibit F distribution-entity legal name (reference only, not a Party to this Agreement) not yet added.
 
 ### OCD LLC
 
