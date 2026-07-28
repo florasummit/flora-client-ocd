@@ -117,7 +117,7 @@ Each Party represents that:
 
 **13.3 Procedure.** The indemnified Party shall provide prompt written notice of any claim for which indemnification is sought. The indemnifying Party shall have the right to control the defense with counsel reasonably acceptable to the indemnified Party, provided the indemnified Party may participate in the defense at its own expense, and the indemnifying Party shall not settle any claim in a manner that imposes liability or admits fault on the indemnified Party without its prior written consent.
 
-**13.4 Cap.** Except for claims arising from fraud, willful misconduct, or a breach of the chain-of-title representations in this Agreement or the Founder Brand Ownership Declaration (to which no cap applies), each Party's aggregate liability under this Section 13 shall not exceed **$50,000**. *(Default figure — adjust to whatever amount reflects the actual scale of the brand relationship; this was not set by counsel.)*
+**13.4 No Cap.** There is no cap on either Party's aggregate liability under this Section 13.
 
 ## 14. Term and Termination
 
