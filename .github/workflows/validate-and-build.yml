@@ -55,7 +55,7 @@ jobs:
         if: github.event_name == 'workflow_dispatch' && inputs.build_mode == 'final'
         run: python scripts/validate.py
 
-      - name: Build package
+      - name: Build package (also builds closing certificate)
         run: python scripts/build.py
 
       - name: Upload package
@@ -68,3 +68,14 @@ jobs:
             09-generated/OCD-Brand-Foundation-and-Flora-Summit-Partnership-Package.docx
             09-generated/OCD-Brand-Foundation-and-Flora-Summit-Partnership-Package.pdf
             09-generated/SHA256SUMS.txt
+
+      - name: Upload closing certificate
+        uses: actions/upload-artifact@v4
+        with:
+          name: OCD-closing-certificate-${{ github.event_name == 'workflow_dispatch' && inputs.build_mode || 'draft' }}
+          if-no-files-found: ignore
+          path: |
+            09-generated/OCD-Closing-Certificate.md
+            09-generated/OCD-Closing-Certificate.docx
+            09-generated/OCD-Closing-Certificate.pdf
+            09-generated/OCD-Closing-Certificate-SHA256.txt

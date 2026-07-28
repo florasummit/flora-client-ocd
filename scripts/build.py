@@ -139,3 +139,12 @@ for path in [md, docx, pdf, BRAND_ASSET_MANIFEST]:
 
 manifest_file.write_text("\n".join(manifest_entries) + "\n", encoding="utf-8")
 print(f"Built package in {OUT}")
+
+# Always keep the Closing Certificate current alongside the main package,
+# even though it's excluded from the main signing docx/pdf above (it isn't
+# ready to send until the Flora Summit MCA/Order Form/Fee Schedule package
+# is also done). Building it here just keeps a current reference draft
+# available in 09-generated/ — it does not get sent or signed by itself.
+closing_cert_script = ROOT / "scripts" / "build_closing_certificate.py"
+if closing_cert_script.exists():
+    subprocess.run(["python3", str(closing_cert_script)], cwd=ROOT, check=False)
